@@ -1,6 +1,6 @@
 ## AlphaRouter
 
-Debian-based script to turn debian into a router VPN and with WiFi support.
+Debian-based scripts and configuration files to turn debian into a router VPN and with WiFi support.
 
 
 
